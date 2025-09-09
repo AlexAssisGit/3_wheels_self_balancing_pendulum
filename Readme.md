@@ -23,7 +23,7 @@
 Este projeto é distribuído sob licença **MIT** — você pode usar, modificar e distribuir livremente, desde que mantenha a atribuição ao autor original.  
 Objetivo principal: **democratizar o acesso a plantas didáticas de controle**.
 
-## 👥 Contribuindo
+## Contribuindo
 Contribuições são bem-vindas!  
 Sugestões de melhorias, novos controladores ou adaptações de hardware podem ser enviadas via **pull request** ou **issue**.
 
